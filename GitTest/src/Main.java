@@ -17,7 +17,9 @@ public class Main {
     String greetingMessage = "FoxBuy!!!";
     System.out.println(cheerMessage + greetingMessage);
 
+    System.out.println("Cheer for the" + greetingMessage);
   }
+
 
   public static void count(int age, String developerName) {
     System.out.println(age + " years");
