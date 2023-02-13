@@ -11,7 +11,7 @@ public class Main {
   }
 
   public static void horoscope(String scorpion, Integer age) {
-    System.out.println(scorpion + age);
+    System.out.println(scorpion + age + "");
   }
 
   public static void cheer() {
