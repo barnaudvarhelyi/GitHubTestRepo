@@ -14,7 +14,7 @@ public class Main {
 
   public static void cheer() {
     String cheerMessage = "Long live the ";
-    String greetingMessage = "FoxBuy.";
+    String greetingMessage = "FoxBuy!!!";
     System.out.println(cheerMessage + greetingMessage);
 
   }
