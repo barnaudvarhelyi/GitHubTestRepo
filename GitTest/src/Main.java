@@ -20,7 +20,6 @@ public class Main {
   }
 
   public static void count(int age, String developerName) {
-    System.out.println(age + " years");
-    System.out.println(developerName + age);
+    System.out.println("Counting the countless " + developerName + "(" + age + " years old)");
   }
 }
