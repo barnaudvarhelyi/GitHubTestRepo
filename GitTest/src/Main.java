@@ -23,6 +23,6 @@ public class Main {
 
   public static void count(int age, String developerName) {
     System.out.println(age + " years");
-    System.out.println(developerName);
+    System.out.println(developerName + age);
   }
 }
