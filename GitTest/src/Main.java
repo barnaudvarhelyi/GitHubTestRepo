@@ -10,4 +10,7 @@ public class Main {
     public static void cheer() {
         System.out.println("FoxBuy.");
     }
+    public static void horoscope() {
+        System.out.println("Scorpion");
+    }
 }
