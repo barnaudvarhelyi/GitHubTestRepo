@@ -8,6 +8,7 @@ public class Main {
     System.out.println("Greetings for the" + name2);
   }
 
+
   public static void horoscope(String scorpion, Integer age) {
     System.out.println(scorpion + age + "");
   }
