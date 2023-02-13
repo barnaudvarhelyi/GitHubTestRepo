@@ -16,7 +16,7 @@ public class Main {
 
   public static void cheer() {
     String greetingMessage = "FoxBuy.";
-    System.out.println(greetingMessage);
+    System.out.println("Cheer for the" + greetingMessage);
   }
 
 
