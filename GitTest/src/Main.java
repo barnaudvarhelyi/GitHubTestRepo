@@ -1,13 +1,11 @@
 public class Main {
-
-
+  
   public static void main(String[] args) {
     System.out.println("Hello world!");
   }
 
-
-  public static void greet(String name) {
-    System.out.println(name);
+  public static void greet(String name, String name2) {
+    System.out.println("Greetings for the" + name2);
   }
 
   public static void horoscope(String scorpion, Integer age) {
@@ -16,11 +14,13 @@ public class Main {
 
   public static void cheer() {
     String greetingMessage = "FoxBuy.";
+
     System.out.println("Cheer for the" + greetingMessage);
   }
 
 
-  public static void count(int age) {
+  public static void count(int age, String developerName) {
     System.out.println(age + " years");
+    System.out.println(developerName + age);
   }
 }
