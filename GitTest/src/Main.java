@@ -20,7 +20,8 @@ public class Main {
         System.out.println("20 years");
     }
   public static void cheer() {
-    System.out.println("FoxBuy.");
+      String greetingMessage = "FoxBuy.";
+      System.out.println(greetingMessage);
   }
 
 
