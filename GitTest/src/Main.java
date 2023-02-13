@@ -15,8 +15,9 @@ public class Main {
   }
 
   public static void cheer() {
-    String greetingMessage = "FoxBuy.";
-    System.out.println(greetingMessage);
+    String cheerMessage = "Long live the ";
+    String greetingMessage = "FoxBuy team!";
+    System.out.println(cheerMessage + greetingMessage);
     System.out.println("Slovak language");
   }
 
