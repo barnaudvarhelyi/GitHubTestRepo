@@ -14,9 +14,10 @@ public class Main {
 
   public static void cheer() {
     String greetingMessage = "FoxBuy.";
-    System.out.println(greetingMessage);
 
+    System.out.println("Cheer for the" + greetingMessage);
   }
+
 
   public static void count(int age, String developerName) {
     System.out.println(age + " years");
