@@ -6,8 +6,8 @@ public class Main {
   }
 
 
-  public static void greet(String name) {
-    System.out.println(name);
+  public static void greet(String name, String name2) {
+    System.out.println(name + " " + name2);
   }
 
   public static void horoscope() {
@@ -20,8 +20,7 @@ public class Main {
     System.out.println("Slovak language");
   }
 
-
   public static void count(int age) {
-    System.out.println(age + " years");
+    System.out.println(5 + ". month");
   }
 }
