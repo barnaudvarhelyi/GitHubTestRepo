@@ -10,8 +10,8 @@ public class Main {
     System.out.println(name + " " + name2 );
   }
 
-  public static void horoscope() {
-      System.out.println("Rat");
+  public static void horoscope(String name) {
+      System.out.println("Your future looks like " + name);
   }
 
   public static void cheer() {
