@@ -11,7 +11,7 @@ public class Main {
   }
 
   public static void horoscope() {
-      System.out.println("Rat");
+    System.out.println("Rat");
   }
 
   public static void cheer() {
@@ -20,7 +20,8 @@ public class Main {
     System.out.println("Slovak language");
   }
 
-  public static void count(int age) {
-    System.out.println(5 + ". month");
+  public static void count(int age, String developerName) {
+    System.out.println(age + " years");
+    System.out.println(developerName + age);
   }
 }
