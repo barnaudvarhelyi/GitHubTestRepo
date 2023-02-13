@@ -15,8 +15,10 @@ public class Main {
     }
 
     public static void cheer() {
-        System.out.println("FoxBuy.");
+        String greetingMessage = "FoxBuy.";
+        System.out.println(greetingMessage);
     }
+
 
     public static void count(int age) {
         System.out.println(age + " years");
