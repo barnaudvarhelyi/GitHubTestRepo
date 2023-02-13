@@ -5,7 +5,7 @@ public class Main {
   }
 
   public static void greet(String name, String name2) {
-    System.out.println(name + " " + name2 );
+    System.out.println("Greetings for the" + name2);
   }
 
   public static void horoscope(String scorpion, Integer age) {
@@ -17,7 +17,6 @@ public class Main {
     System.out.println(greetingMessage);
 
   }
-
 
   public static void count(int age, String developerName) {
     System.out.println(age + " years");
