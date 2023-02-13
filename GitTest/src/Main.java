@@ -21,13 +21,6 @@ public class Main {
 
   }
 
-
-  public static void count(int age) {
-    System.out.println(age + " years");
-    System.out.println("Slovak language");
-  }
-
-
   public static void count(int age, String developerName) {
     System.out.println(age + " years");
     System.out.println(developerName + age);
