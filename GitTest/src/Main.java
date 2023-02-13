@@ -12,7 +12,7 @@ public class Main {
     }
 
     public static void horoscope() {
-        System.out.println("Scorpion");
+        System.out.println("Scorpion and something");
     }
     public static void count() {
         System.out.println("20 years");
