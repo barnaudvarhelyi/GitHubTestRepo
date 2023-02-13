@@ -11,7 +11,7 @@ public class Main {
   }
 
   public static void horoscope() {
-    System.out.println("Scorpion and something");
+      System.out.println("Rat");
   }
 
   public static void cheer() {
