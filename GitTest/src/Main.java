@@ -7,7 +7,7 @@ public class Main {
 
 
   public static void greet(String name, String name2) {
-    System.out.println(name + " " + name2);
+    System.out.println(name + " " + name2 );
   }
 
   public static void horoscope() {
